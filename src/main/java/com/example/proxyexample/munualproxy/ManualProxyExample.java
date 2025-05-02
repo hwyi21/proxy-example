@@ -1,7 +1,7 @@
 package com.example.proxyexample.munualproxy;
 
 
-public class ManualProxyTest {
+public class ManualProxyExample {
     public static void main(String[] args) {
         Service target = new RealService(); // 진짜 서비스
         Service proxy = new LoggingProxy(target); // 프록시 생성
