@@ -1,4 +1,4 @@
-package com.example.proxyexample.aop;
+package com.example.proxyexample.aop.manualproxy;
 
 public class RealService implements Service {
 

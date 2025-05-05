@@ -1,4 +1,4 @@
-package com.example.proxyexample.aop;
+package com.example.proxyexample.aop.manualproxy;
 
 import org.aopalliance.intercept.MethodInterceptor;
 import org.aopalliance.intercept.MethodInvocation;
